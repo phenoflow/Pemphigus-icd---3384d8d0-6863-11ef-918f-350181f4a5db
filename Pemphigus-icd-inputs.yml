@@ -1,0 +1,75 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/pemphigus---secondary.py
+inputModule3:
+  class: File
+  path: python/other-pemphigus-icd---secondary.py
+inputModule4:
+  class: File
+  path: python/pemphigus-icd-vulgaris---secondary.py
+inputModule5:
+  class: File
+  path: python/pemphigus-icd-vegetan---secondary.py
+inputModule6:
+  class: File
+  path: python/foliaceous-pemphigus-icd---secondary.py
+inputModule7:
+  class: File
+  path: python/pemphigus-icd-selvagem---secondary.py
+inputModule8:
+  class: File
+  path: python/pemphigus-icd-erythematosus---secondary.py
+inputModule9:
+  class: File
+  path: python/pemphigus-icd-druginduced---secondary.py
+inputModule10:
+  class: File
+  path: python/pemphigus-icd-unspecified---secondary.py
+inputModule11:
+  class: File
+  path: python/pemphigus-icd-paraneoplastica---secondary.py
+inputModule12:
+  class: File
+  path: python/pemphigus-icd-membrane---secondary.py
+inputModule13:
+  class: File
+  path: python/pemphigus-icd-neumann---secondary.py
+inputModule14:
+  class: File
+  path: python/pemphigus-icd-benign---secondary.py
+inputModule15:
+  class: File
+  path: python/pemphigus-icd-neonatorum---secondary.py
+inputModule16:
+  class: File
+  path: python/pemphigus-icd-screening---secondary.py
+inputModule17:
+  class: File
+  path: python/pemphigus-icd-foliaceu---secondary.py
+inputModule18:
+  class: File
+  path: python/familial-pemphigus-icd---secondary.py
+inputModule19:
+  class: File
+  path: python/syphilitic-pemphigus-icd---secondary.py
+inputModule20:
+  class: File
+  path: python/minor-pemphigus-icd---secondary.py
+inputModule21:
+  class: File
+  path: python/pemphigus-icd---secondary.py
+inputModule22:
+  class: File
+  path: python/pemphigus-icd-dystrophy---secondary.py
+inputModule23:
+  class: File
+  path: python/pemphigus-icd-malignant---secondary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
